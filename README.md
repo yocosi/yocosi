@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I'm Yocosi. 
+## I love low level stuff, mostly reverse engineering and systems programming.
+## I also really like software engineering.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
