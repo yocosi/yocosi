@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi developers/recruiters 👋
 
 ### I'm Pierre Amari
 ### I love low level stuff, mostly reverse engineering and systems programming.
