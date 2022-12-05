@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Yocosi. 
+## I'm Yocosi.\n
 ## I love low level stuff, mostly reverse engineering and systems programming.
 ## I also really like software engineering.
 
