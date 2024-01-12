@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### Pierre Amari
+### Pierre Aki
 ### Software Engineer
 
 - 🚀 My LinkedIn: https://www.linkedin.com/in/pierre-amari/
