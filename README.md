@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### Software Engineer
+### VueJS / NuxtJS frontend developer
 
 - 🚀 My LinkedIn: https://www.linkedin.com/in/pierre-amari/
 - 📫 How to reach me: yocosi.pro@gmail.com
