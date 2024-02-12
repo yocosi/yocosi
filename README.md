@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### VueJS - NuxtJS / Tailwind CSS frontend developer
+### VueJS / NuxtJS - Frontend developer
 
 - 🚀 My LinkedIn: https://www.linkedin.com/in/pierre-amari/
 - 📫 How to reach me: yocosi.pro@gmail.com
