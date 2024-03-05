@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### VueJS / NuxtJS - Frontend developer
+### Golang - Backend developer
 
 - 🚀 My LinkedIn: https://www.linkedin.com/in/pierre-amari/
 - 👨🏽‍💻 My portfolio: https://pierre-amari.com/
