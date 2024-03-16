@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### Software engineer - Golang expert
+### Software Engineer - Devops/Cloud & Cybersecurity enthusiast
 
 - 🚀 My LinkedIn: [https://www.linkedin.com/in/pierre-amari/](https://www.linkedin.com/in/pierre-amari-571532121/)
 - 📫 How to reach me: contact@pierre-amari.com
