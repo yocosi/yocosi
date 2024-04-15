@@ -1,6 +1,6 @@
 # Hi developers/recruiters 👋
 
-### Software Engineer - Devops/Cloud & Cybersecurity enthusiast
+### Software Engineer - Embedded system and IoT enthusiast
 
 - 🚀 My LinkedIn: [https://www.linkedin.com/in/pierre-amari/](https://www.linkedin.com/in/pierre-amari-571532121/)
 - 📫 How to reach me: contact@pierre-amari.com
